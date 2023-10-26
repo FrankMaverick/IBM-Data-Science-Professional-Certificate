@@ -1,6 +1,6 @@
 # IBM Data Science Methodology
 
-![Alt text](.\data_science_methodology.jpg)
+![Alt text](./data_science_methodology.jpg)
 
 ## 1. Business Understanding
 The Business Understanding phase is a critical starting point for any data science project. It involves gaining a comprehensive understanding of the business problem and the objectives to be achieved. This step includes identifying key stakeholders and clearly defining the context in which the problem exists.
