@@ -91,7 +91,7 @@ Solution owner;The individual or team responsible for overseeing the deployment 
 Stakeholders;Individuals or groups with a vested interest in the data science model's outcome and its practical application, such as solution owners, marketing, application developers, and IT administration.
 Standard deviation;A measure of the dispersion or variability of a set of values from their mean; It provides information about the spread or distribution of the data.
 Statistical analysis;Stand deviations are applied to problems that require counts, such as yes/no answers or classification tasks.
-Statistical significance testing;Evaluation technique to verify that data is appropriately handled and interpreted within the model.
+Statistical significance testing;Evaluation technique to verify that data is appropriately handled and interpreted within the model. 
 Statistics;The collection, analysis, interpretation, presentation, and organization of data to understand patterns, relationships, and variability in the data.
 Storytelling;Storytelling is the art of conveying your message, or ideas through a narrative structure that engages, entertains, and resonates with the audience.
 Structured data (data model);Data organized and formatted according to a predefined schema or model and is typically stored in databases or spreadsheets.
