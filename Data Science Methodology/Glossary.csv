@@ -14,7 +14,7 @@ CRISP-DM;Cross-Industry Standard Process for Data Mining is a widely used method
 Cyclical methodology;An iterative approach to the data science process, where each stage informs and refines the subsequent stages.
 Data analysis;The process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.
 Data cleansing;The process of identifying and correcting or removing errors, inconsistencies, or inaccuracies in a dataset to improve its quality and reliability
-Data Collection;The phase of gathering and assembling data from various sources (e.g.  demographic, clinical, coverage, pharmaceutical information, …)
+Data Collection;The phase of gathering and assembling data from various sources (e.g.  demographic, clinical, coverage, pharmaceutical information, ...)
 Data collection refinement;The process of obtaining additional data elements or information to improve the model's performance.
 Data Compilation;The process of organizing and structuring data to create a comprehensive data set.
 Data Formatting;The process of standardizing the data to ensure uniformity and ease of analysis.
@@ -89,7 +89,7 @@ Separation;Separation is the degree of discrimination achieved by the model in c
 Solution deployment;The process of implementing and integrating the data science model into the business or organizational workflow.
 Solution owner;The individual or team responsible for overseeing the deployment and management of the data science solution.
 Stakeholders;Individuals or groups with a vested interest in the data science model's outcome and its practical application, such as solution owners, marketing, application developers, and IT administration.
-Standard deviation;A measure of the dispersion or variability of a set of values from their mean; It provides information about the spread or distribution of the data.
+Standard deviation;A measure of the dispersion or variability of a set of values from their mean It provides information about the spread or distribution of the data.
 Statistical analysis;Stand deviations are applied to problems that require counts, such as yes/no answers or classification tasks.
 Statistical significance testing;Evaluation technique to verify that data is appropriately handled and interpreted within the model. 
 Statistics;The collection, analysis, interpretation, presentation, and organization of data to understand patterns, relationships, and variability in the data.
@@ -100,7 +100,7 @@ Text Analysis;Steps to analyze and manipulate textual data, extracting meaningfu
 Text analysis data mining;The process of extracting useful information or knowledge from unstructured textual data through techniques such as natural language processing, text mining, and sentiment analysis.
 Text Analysis Groupings;Creating meaningful groupings and categories from textual data for analysis.
 Threshold value;The specific value used to split data into groups or categories in a decision tree.
-Training set;A subset of data used to train or fit a machine learning model; consists of input data and corresponding known or labeled output values.
+Training set;A subset of data used to train or fit a machine learning model consists of input data and corresponding known or labeled output values.
 True-positive rate;The rate at which the model correctly identifies positive outcomes.
 Unavailable data;Data elements are not currently accessible or integrated into the data sources.
 Univariate;Modeling analysis focused on a single variable or feature at a time, considering its characteristics and relationship to other variables independently.
