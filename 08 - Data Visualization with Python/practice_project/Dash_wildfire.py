@@ -29,13 +29,13 @@ app.layout = html.Div(children=[html.H1('Australia Wildfire Dashboard',
                         #dcc.RadioItems(['NSW','QL','SA','TA','VI','WA'], 'NSW', id='region',inline=True)]),
                     #OR you can use labels:value pair a well in raioditems as below
                     #Radio items to select the region
-                        dcc.RadioItems([{"label":"New South Wales","value": "NSW"},
-                                        {"label":"Northern Territory","value": "NT"},
-                                        {"label":"Queensland","value": "QL"},
-                                        {"label":"South Australia","value": "SA"},
-                                        {"label":"Tasmania","value": "TA"},
-                                        {"label":"Victoria","value": "VI"},
-                                        {"label":"Western Australia","value": "WA"}],"NSW", id='region',inline=True)]),
+                    dcc.RadioItems([{"label":"New South Wales","value": "NSW"},
+                                    {"label":"Northern Territory","value": "NT"},
+                                    {"label":"Queensland","value": "QL"},
+                                    {"label":"South Australia","value": "SA"},
+                                    {"label":"Tasmania","value": "TA"},
+                                    {"label":"Victoria","value": "VI"},
+                                    {"label":"Western Australia","value": "WA"}],"NSW", id='region',inline=True)]),
                     #Dropdown to select year
                     html.Div([
                         html.H2('Select Year:', style={'margin-right': '2em'}),
